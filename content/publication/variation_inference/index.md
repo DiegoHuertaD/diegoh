@@ -1,5 +1,5 @@
 ---
-title: "On the Robustness to Misspecification of alpha-Posteriors and Their Variational Approximations"
+title: "Wealth Inequality and the Political Economy of Financial and Labour Regulations"
 # authors:
 # - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
 # tags:
@@ -7,11 +7,11 @@ title: "On the Robustness to Misspecification of alpha-Posteriors and Their Vari
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-04-01"
+date: "2021-11-26"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01"
+publishDate: "2021-11-26"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush. *Journal of Machine Learning Research*, 23(147):1−51, 2022.
+summary: Joint with Ronald Fischer. *Journal of Public Economics*, 204, 104553, 2021.
 
 # tags:
 # - Source Themes
@@ -34,8 +34,8 @@ summary: Joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rus
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://jmlr.org/papers/volume23/21-0386/21-0386.pdf"
-# url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0047272721001894"
+# url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0047272721001894'
 url_code: ''
 url_dataset: ''
 url_poster: ''
