@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Ronald Fischer and Patricio Valenzuela. *Journal of International Money and Finance*, Volume 91, March 2019, pp. 105-125
+summary: Joint with Ronald Fischer and Patricio Valenzuela. *Journal of International Money and Finance*, 91, 2019, pp. 105-125
 # tags:
 # - Source Themes
 # featured: false
@@ -65,7 +65,7 @@ image:
 # slides: example
 #
 ---
-*Journal of International Money and Finance*, Volume 91, March 2019, pp. 105-125.
+*Journal of International Money and Finance*, 91, 2019, pp. 105-125.
 
 Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer </a> </span>, <span> and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
 
