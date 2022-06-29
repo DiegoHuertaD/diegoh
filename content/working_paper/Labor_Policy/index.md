@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In many countries, there is a size threshold above which stricter employment protection legislations (EPLs) apply. Thus EPLs are essentially S-shaped as a function of firm size. This article develops a political theory that rationalizes the existence of such policies. Citizens are heterogeneous in wealth and make an occupational choice that determines their voting preferences for EPLs. The equilibrium policy is S-shaped regardless of the political orientation of the government. Even if the government cares only about workers, it keeps workers in smaller firms unprotected. Conversely, even if it cares exclusively about entrepreneurs, it imposes stricter EPLs on larger firms.  
 # tags:
 # - Source Themes
 # featured: false
