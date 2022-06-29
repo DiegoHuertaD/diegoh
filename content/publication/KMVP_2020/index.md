@@ -1,17 +1,17 @@
 ---
 title: "Posterior distribution of nondifferentiable functions"
 # authors:
-# - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
+# - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
 # - Machine Learning
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2020-07-01T00:00:00Z"
+date: "2019-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2019-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,8 +20,8 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["0"]
  
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Econometrics, 217(1),161-175*"
-# publication_short: "**Journal of Econometrics**, 217(1),161-175"
+# publication: "*Journal of International Money and Finance, 91,105-125*"
+# publication_short: "**Journal of International Money and Finance**, 91,105-125"
 
 
 # Summary. An optional shortened abstract.
@@ -33,8 +33,8 @@ summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0304407620300014"
-# url_pdf2: 'https://www.amilcarvelez.com/publication/KMVP_2020/KMPV_2020Appendix.pdf'
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139"
+# url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
 url_code: ''
 url_dataset: ''
 url_poster: ''
