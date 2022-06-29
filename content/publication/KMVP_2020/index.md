@@ -1,5 +1,5 @@
 ---
-title: "Posterior distribution of nondifferentiable functions"
+title: "The Inequality-Credit Nexus"
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
