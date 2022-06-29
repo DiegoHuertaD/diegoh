@@ -65,10 +65,8 @@ image:
 # slides: example
 #
 ---
-*Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
 
-Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
 
-Abstract: This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function '$g(\theta)$', where $\theta$ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator $\widehat{\theta}_n$, its bootstrap approximation, and the Bayesian posterior for $\theta$ all agree asymptotically.
 
-It is shown that whenever $g$ is locally Lipschitz, though not necessarily differentiable, the posterior distribution of $g(\theta)$ and the bootstrap distribution of $g(\widehat{\theta}_n)$ coincide asymptotically. One implication is that Bayesians can interpret bootstrap inference for $g(\theta)$ as approximately valid posterior inference in a large sample. Another implication---built on known results about bootstrap inconsistency---is that credible intervals for a nondifferentiable parameter $g(\theta)$ cannot be presumed to be approximately valid confidence intervals (even when this relation holds true for $\theta$).
+
+Abstract: In many countries, there is a size threshold above which stricter employment protection legislations (EPLs) apply. Thus EPLs are essentially S-shaped as a function of firm size. This article develops a political theory that rationalizes the existence of such policies. Citizens are heterogeneous in wealth and make an occupational choice that determines their voting preferences for EPLs. The equilibrium policy is S-shaped regardless of the political orientation of the government. Even if the government cares only about workers, it keeps workers in smaller firms unprotected. Conversely, even if it cares exclusively about entrepreneurs, it imposes stricter EPLs on larger firms.  
