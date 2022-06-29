@@ -18,7 +18,7 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research
+bio: My research relates to
 
 interests:
 - Macroeconomics
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research interests encompass econometrics theory, machine learning and statistical decision theory.
+I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research 
