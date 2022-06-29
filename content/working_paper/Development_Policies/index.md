@@ -65,8 +65,6 @@ image:
 # slides: example
 #
 ---
-*Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
 
-Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
 
 Abstract: How do different development policies come to exist across countries and over time? To address this question, this article develops a politico-economy theory of dynamic Ramsey policies. I adapt the workhorse macro model with heterogeneous agents to include: i) repeated elections, ii) endogenous credit constraints, and iii) occupational choice. Policies and inequality are jointly determined over time as a result of the political process. I characterize the transition dynamics of the equilibrium policy as a function of countries' initial wealth distribution. The different policy dynamics provide a political rationale for the differences in development policies pursued by developing and developed countries.
