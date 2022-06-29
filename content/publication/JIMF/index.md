@@ -67,7 +67,7 @@ image:
 ---
 *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
 
-Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer </span> <span>  and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
+Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer </span>   and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
 
 Abstract: This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function '$g(\theta)$', where $\theta$ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator $\widehat{\theta}_n$, its bootstrap approximation, and the Bayesian posterior for $\theta$ all agree asymptotically.
 
