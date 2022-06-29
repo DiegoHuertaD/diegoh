@@ -33,8 +33,8 @@ summary: Employment protection laws (EPLs) are aimed to protect workers. However
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139"
-# url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
+url_pdf: "https://diegohuerta.netlify.app/working_paper/labor_policy_empirical/06032022_labor_regulation_empirical.pdf"
+# url_pdf2: 'https://diegohuerta.netlify.app/working_paper/labor_policy_empirical/06032022_labor_regulation_empirical.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
