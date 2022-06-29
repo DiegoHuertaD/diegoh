@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amilcar Velez
+title: Diego Huerta
 
 # Username (this should match the folder name)
 authors:
@@ -18,13 +18,11 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests encompass econometrics theory, machine learning and statistical decision theory.
+bio: My re
 
 interests:
-- Econometrics
-- Machine Learning
-- Experiments
-- Statistical Decision Theory
+- Macroeconomics
+- Political Economy
 
 
 education:
