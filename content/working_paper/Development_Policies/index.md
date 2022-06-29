@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Labor Policy"
+title: "A Positive Theory of Dynamic Development Policies"
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
@@ -17,7 +17,7 @@ publishDate: "2019-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
  
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of International Money and Finance, 91,105-125*"
@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Ronald Fischer and Patricio Valenzuela. *Journal of International Money and Finance*, Volume 91, March 2019, pp. 105-125
+summary: How do different development policies come to exist across countries and over time? To address this question, this article develops a politico-economy theory of dynamic Ramsey policies. The different policy dynamics provide a political rationale for the differences in development policies pursued by developing and developed countries.
 # tags:
 # - Source Themes
 # featured: false
@@ -69,6 +69,4 @@ image:
 
 Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
 
-Abstract: This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function '$g(\theta)$', where $\theta$ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator $\widehat{\theta}_n$, its bootstrap approximation, and the Bayesian posterior for $\theta$ all agree asymptotically.
-
-It is shown that whenever $g$ is locally Lipschitz, though not necessarily differentiable, the posterior distribution of $g(\theta)$ and the bootstrap distribution of $g(\widehat{\theta}_n)$ coincide asymptotically. One implication is that Bayesians can interpret bootstrap inference for $g(\theta)$ as approximately valid posterior inference in a large sample. Another implication---built on known results about bootstrap inconsistency---is that credible intervals for a nondifferentiable parameter $g(\theta)$ cannot be presumed to be approximately valid confidence intervals (even when this relation holds true for $\theta$).
+Abstract: How do different development policies come to exist across countries and over time? To address this question, this article develops a politico-economy theory of dynamic Ramsey policies. I adapt the workhorse macro model with heterogeneous agents to include: i) repeated elections, ii) endogenous credit constraints, and iii) occupational choice. Policies and inequality are jointly determined over time as a result of the political process. I characterize the transition dynamics of the equilibrium policy as a function of countries' initial wealth distribution. The different policy dynamics provide a political rationale for the differences in development policies pursued by developing and developed countries.
