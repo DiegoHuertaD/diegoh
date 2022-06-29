@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Toru Kitagawa, José Luis Montiel Olea and Jonathan Payne. *Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175
+summary: Joint with Ronald Fischer and Patricio Valenzuela. *Journal of International Money and Finance*, Volume 91, March 2019, pp. 105-125
 # tags:
 # - Source Themes
 # featured: false
