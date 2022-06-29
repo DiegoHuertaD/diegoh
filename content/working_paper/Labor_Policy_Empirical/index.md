@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Employment protection laws (EPLs) are aimed to protect workers. However, if firms cannot easily adjust to EPLs, then their workers may not benefit from higher protection at all. I address this concern from both a theoretical and empirical perspective.
 # tags:
 # - Source Themes
 # featured: false
