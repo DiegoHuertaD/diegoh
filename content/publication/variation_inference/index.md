@@ -69,7 +69,7 @@ image:
 *Journal of Public Economics*, 204, 104553, 2021.
 
 
-Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
+Joint with  <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1"> Ronald Fischer</a> </span></div>
 
 
  
