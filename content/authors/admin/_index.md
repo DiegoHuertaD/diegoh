@@ -30,14 +30,14 @@ education:
   - course: PhD in Economics
     institution: Northwestern University
     year: 2019-present
-  - course: MA in Economics
+  - course: MS in Economics
     institution: Northwestern University
     year: 2020
-  - course: MS in Mathematics
-    institution: Instituto Nacional de Matematica Pura e Aplicada
-    year: 2015
-  - course: BA in Economics
-    institution: Pontificie Universidad Catolica del Peru
+  - course: MS in Economics
+    institution: Universidad de Chile
+    year: 2014
+  - course: BA in Industrial Engineering
+    institution: Universidad de Chile
     year: 2014
 
 # Social/Academic Networking
