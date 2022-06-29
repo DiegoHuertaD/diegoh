@@ -68,6 +68,9 @@ image:
 ---
 *Journal of Public Economics*, 204, 104553, 2021.
 
-Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer</span></div>
+
+Joint with <a href="http://www.homepages.ucl.ac.uk/~uctptk0/Research/research.htm" target="_blank">Toru Kitagawa </span>, <span> <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
+
+
  
 Abstract:  This article studies the interplay between inequality and the effectiveness of financial and labor regulations. We motivate the paper by observing that the cross-country correlation between wealth inequality and the strength of regulations increases with a country’s GDP per capita. In poor countries the relationship is negative, but might become positive for rich enough countries. In our model, initial regulations and wealth inequality determine occupational choice and thus create endogenous interest groups. We embed these groups in a political economy model, and use it to endogenize political platforms and explain our observation. We show that increased inequality in a poor country leads in equilibrium to lower creditor and worker protection. In rich countries the effect is reversed and higher inequality means that less advantaged groups can exert more pressure towards laws that work in their favour.
