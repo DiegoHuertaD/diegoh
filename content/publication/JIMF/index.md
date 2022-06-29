@@ -65,14 +65,11 @@ image:
 # slides: example
 #
 ---
-*Journal of Econometrics*, Volume 217(1), July 2020, pp. 161-175.
+*Journal of International Money and Finance*, Volume 91, March 2019, pp. 105-125.
 
-Joint with <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea </a> </span>, <span> and <a href="https://sites.google.com/site/jonathanedgarpayne/"> Jonathan Payne</a> </span></div>
+Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer </a> </span>, <span> and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
 
 
 
-#Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer </span>,    and <a #href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
 
-Abstract: This paper examines the asymptotic behavior of the posterior distribution of a possibly nondifferentiable function '$g(\theta)$', where $\theta$ is a finite-dimensional parameter of either a parametric or semiparametric model. The main assumption is that the distribution of a suitable estimator $\widehat{\theta}_n$, its bootstrap approximation, and the Bayesian posterior for $\theta$ all agree asymptotically.
-
-It is shown that whenever $g$ is locally Lipschitz, though not necessarily differentiable, the posterior distribution of $g(\theta)$ and the bootstrap distribution of $g(\widehat{\theta}_n)$ coincide asymptotically. One implication is that Bayesians can interpret bootstrap inference for $g(\theta)$ as approximately valid posterior inference in a large sample. Another implication---built on known results about bootstrap inconsistency---is that credible intervals for a nondifferentiable parameter $g(\theta)$ cannot be presumed to be approximately valid confidence intervals (even when this relation holds true for $\theta$).
+Abstract: This paper explores the inequality-credit nexus from both a theoretical and an empirical perspective. The paper develops an overlapping generation model in which the effect of income inequality on private credit depends on the countries’ per capita income and on the quality of laws protecting creditor rights. The model predicts that greater inequality leads to higher levels of private credit in countries with low per capita incomes and weak legal rights, while this effect is ambiguous or negative in economies with higher aggregate income and stronger credit protection. Using a panel dataset of 155 countries over the 1982–2015 period, the paper shows empirical evidence that is robust and consistent with the model’s predictions. The paper’s major finding suggests a credit channel through which inequality may affect economic outcomes.
