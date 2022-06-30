@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m a third-year Ph.D. student at the Economics Department of Northwestern University. 
-My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to study the joint determination of policies and economic outcomes. 
+My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
 
 interests:
 - Macroeconomics
@@ -70,4 +70,4 @@ email: ""
 ---
 
 I’m a third-year Ph.D. student at the Economics Department of Northwestern University. 
-My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to study the joint determination of policies and economic outcomes. 
+My research is at the intersection of macroeconomics and political economy. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
