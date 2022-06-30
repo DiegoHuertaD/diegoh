@@ -34,12 +34,13 @@ summary: In many countries, there is a size threshold above which stricter emplo
 # - name: ""
 #   url: ""
 url_pdf: "https://diegohuerta.netlify.app/working_paper/labor_policy/06162022_labor_policy.pdf"
+
 # url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: "https://diegohuerta.netlify.app/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
 url_source: ''
 url_video: ''
 
