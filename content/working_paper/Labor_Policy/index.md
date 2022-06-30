@@ -65,7 +65,7 @@ image:
 # slides: example
 #
 ---
-slides: "https://diegohuerta.netlify.app/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
+`slides: "example"` references `working_paper/labor_policy/Slides_Macro_lunch_NU.pdf`.
 
 
 
