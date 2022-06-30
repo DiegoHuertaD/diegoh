@@ -65,7 +65,7 @@ image:
 # slides: example
 #
 ---
-`slides: "example"` references `working_paper/labor_policy/Slides_Macro_lunch_NU.pdf`.
+
 
 
 
