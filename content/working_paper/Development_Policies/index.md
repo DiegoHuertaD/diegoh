@@ -33,8 +33,8 @@ summary: How do different development policies come to exist across countries an
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://diegohuerta.netlify.app/working_paper/development_policies/Development_pol_06172022.pdf"
-# url_pdf2: 'https://diegohuerta.netlify.app/working_paper/development_policies/Development_pol_06172022.pdf'
+url_pdf: "https://diegohuerta.netlify.app/working_paper/development_policies/Development_pol_06302022.pdf"
+# url_pdf2: 'https://diegohuerta.netlify.app/working_paper/development_policies/Development_pol_06302022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
