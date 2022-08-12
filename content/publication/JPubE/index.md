@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: Joint with Ronald Fischer. *Journal of Public Economics*, 204, 104553, 2021.
+summary: Joint with Ronald Fischer. *Journal of Public Economics*, 204, 2021, 104553.
 
 # tags:
 # - Source Themes
@@ -66,7 +66,7 @@ image:
 # slides: example
 #
 ---
-*Journal of Public Economics*, 204, 104553, 2021.
+*Journal of Public Economics*, 204, 2021, 104553.
 
 
 Joint with  <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1"> Ronald Fischer</a> </span></div>
