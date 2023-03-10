@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: In many countries, there is a size threshold above which stricter employment protection legislations (EPLs) apply. Thus EPLs are essentially S-shaped as a function of firm size. This article develops a political theory that rationalizes the existence of such policies.
+summary: This article develops a theory that explains the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter rules on firms whose number of employees exceeds a certain threshold.
 # tags:
 # - Source Themes
 # featured: false
@@ -33,7 +33,7 @@ summary: In many countries, there is a size threshold above which stricter emplo
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08122022_labor_policy.pdf"
+url_pdf: "https://diegohuertad.com/working_paper/labor_policy/03092023_labor_policy.pdf"
 
 # url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
 url_code: ''
@@ -70,4 +70,4 @@ image:
 
 
 
-Abstract: In many countries, there is a size threshold above which stricter employment protection legislations (EPLs) apply. Thus EPLs are essentially S-shaped as a function of firm size. This article develops a political theory that rationalizes the existence of such policies. Citizens are heterogeneous in wealth and make an occupational choice that determines their voting preferences for EPLs. The equilibrium policy is S-shaped regardless of the political orientation of the government. Even if the government cares only about workers, it keeps workers in smaller firms unprotected. Conversely, even if it cares exclusively about entrepreneurs, it imposes stricter EPLs on larger firms.  
+Abstract: This article develops a theory that explains the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter rules on firms whose number of employees exceeds a certain threshold. In the model, citizens are heterogeneous in wealth and make an occupational choice that determines their voting preferences for EPL. The equilibrium policy only protects workers in larger firms, regardless of the government's primary concern for either workers or entrepreneurs. Firms strategically adjust their labor in response to a size-contingent policy, resulting in welfare distortions. Welfare distortions can be eliminated by properly regulating independent negotiations between workers and entrepreneurs. 
