@@ -5,7 +5,7 @@ title: "The Political Economy of Labor Policy"
 # tags:
 # - Machine Learning
 #author_notes:
-#- "Equal contribution"
+- Submitted
 #- "Equal contribution"
 date: "2019-03-01T00:00:00Z"
 doi: ""
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. (Submitted)
+summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms.
 # tags:
 # - Source Themes
 # featured: false
