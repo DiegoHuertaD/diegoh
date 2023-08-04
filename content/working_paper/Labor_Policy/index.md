@@ -5,7 +5,7 @@ title: "The Political Economy of Labor Policy"
 # tags:
 # - Machine Learning
 #author_notes:
-- "Submitted"
+#- "Submitted"
 #- "Equal contribution"
 date: "2019-03-01T00:00:00Z"
 doi: ""
