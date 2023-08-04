@@ -35,7 +35,7 @@ summary: This article explores the political origins of size-contingent Employme
 #   url: ""
 url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
 
-# url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
+# url_pdf2: 'https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
