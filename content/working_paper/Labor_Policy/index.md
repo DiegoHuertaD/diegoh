@@ -25,8 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: Submitted
-This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms.
+summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. (Submitted)
 # tags:
 # - Source Themes
 # featured: false
