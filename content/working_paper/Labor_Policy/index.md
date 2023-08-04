@@ -33,7 +33,7 @@ summary: This article develops a theory that explains the political origins of s
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://diegohuertad.com/working_paper/labor_policy/03092023_labor_policy.pdf"
+url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
 
 # url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
 url_code: ''
