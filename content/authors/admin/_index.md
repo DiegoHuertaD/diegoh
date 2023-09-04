@@ -18,7 +18,7 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a fourth-year economics Ph.D. candidate at Northwestern University. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
+bio: I’m a fifth-year economics Ph.D. candidate at Northwestern University. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
 
 interests:
 - Macroeconomics
