@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I’m a fourth-year economics Ph.D. candidate at Northwestern University. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
+I’m a fifth-year economics Ph.D. candidate at Northwestern University. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
