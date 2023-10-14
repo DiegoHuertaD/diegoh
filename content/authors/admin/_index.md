@@ -18,7 +18,9 @@ organizations:
   url: "https://www.economics.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a fifth-year economics Ph.D. candidate at Northwestern University. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
+bio: I'm a fifth-year economics Ph.D. candidate at Northwestern University. I'm a  a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes.  My JMP proposes a theory that explains the striking differences in the evolution of the welfare state across countries. In addition to my JMP, my research explores the economic origins of financial and labor regulations across countries.
+
+I will be on the 2023/2024 Job Market.
 
 interests:
 - Macroeconomics
@@ -68,4 +70,6 @@ email: ""
 # - Visitors
 ---
 
-I’m a fifth-year economics Ph.D. candidate at Northwestern University. My research is at the intersection of macroeconomics and political economy. In my work, I employ heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes. 
+I'm a fifth-year economics Ph.D. candidate at Northwestern University. I'm a  a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and economic outcomes.  My JMP proposes a theory that explains the striking differences in the evolution of the welfare state across countries. In addition to my JMP, my research explores the economic origins of financial and labor regulations across countries.
+
+I will be on the 2023/2024 Job Market. 
