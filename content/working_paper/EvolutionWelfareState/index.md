@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Labor Policy"
+title: "The Evolution of the Welfare State"
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. (Submitted)
+summary: The evolution of the welfare state over the last few decades has differed strikingly across countries in the world. For example, spending on social benefits as a fraction of GDP has substantially increased in the US and France since 1980, but it has declined in the last three decades in countries like Israel and Sweden.  To explain these different trends, I propose a model with agents that are heterogenous in occupation and wealth, and who vote on social benefits over the course of their lifetime. The model highlights the key role of~ ``aspirational voters''—members of the middle class who support pro-business policies and sacrifice social benefits hoping to become future entrepreneurs. The importance of aspirational voters, in turn, depends on wealth inequality. According to the model, social spending is expected to increase in rich countries with high wealth inequality, while it should decline if inequality is low. A calibrated version of the model successfully predicts the observed trends of social spending in 18 out of 24 countries from all continents.
 # tags:
 # - Source Themes
 # featured: false
@@ -33,14 +33,14 @@ summary: This article explores the political origins of size-contingent Employme
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
+#url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
 
 # url_pdf2: 'https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
+#url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
 url_source: ''
 url_video: ''
 
@@ -70,4 +70,4 @@ image:
 
 
 
-Abstract: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which typically imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects workers in larger but not in smaller firms. This is true regardless of the weights the government puts on the welfare of workers and entrepreneurs. Firms strategically adjust their labor demand in response to the size-contingent EPL policy, resulting in welfare distortions. These welfare distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs.
+Abstract: The evolution of the welfare state over the last few decades has differed strikingly across countries in the world. For example, spending on social benefits as a fraction of GDP has substantially increased in the US and France since 1980, but it has declined in the last three decades in countries like Israel and Sweden.  To explain these different trends, I propose a model with agents that are heterogenous in occupation and wealth, and who vote on social benefits over the course of their lifetime. The model highlights the key role of~ ``aspirational voters''—members of the middle class who support pro-business policies and sacrifice social benefits hoping to become future entrepreneurs. The importance of aspirational voters, in turn, depends on wealth inequality. According to the model, social spending is expected to increase in rich countries with high wealth inequality, while it should decline if inequality is low. A calibrated version of the model successfully predicts the observed trends of social spending in 18 out of 24 countries from all continents.
