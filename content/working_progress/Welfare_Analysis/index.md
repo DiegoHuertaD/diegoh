@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: Heterogeneous-agent models have become a popular tool for evaluating the welfare effects of policy changes. Due to computational challenges, the conventional approach has often overlooked the importance of transition dynamics for welfare analysis and has relied on the comparison of steady states. In this paper, we propose a tractable model with heterogeneous agents and idiosyncratic risk that allows for an analytical study of the welfare implications of policy changes. Based on this model, we propose a simple rule for choosing the length of the transition between two steady states. We show that the rule performs well in quantitative heterogeneous-agent models and establish general computational guidelines for computing transitional dynamics in this class of models. 
+summary: joint with Matias Bayas-Erazo. Heterogeneous-agent models have become a popular tool for evaluating the welfare effects of policy changes. Due to computational challenges, the conventional approach has often overlooked the importance of transition dynamics for welfare analysis and has relied on the comparison of steady states. In this paper, we propose a tractable model with heterogeneous agents and idiosyncratic risk that allows for an analytical study of the welfare implications of policy changes. Based on this model, we propose a simple rule for choosing the length of the transition between two steady states. We show that the rule performs well in quantitative heterogeneous-agent models and establish general computational guidelines for computing transitional dynamics in this class of models. 
 # tags:
 # - Source Themes
 # featured: false
