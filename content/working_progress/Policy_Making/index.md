@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: This paper models policy-making as an intricate process in which governments balance political and economic considerations. I incorporate this view into a macro model with heterogeneous agents who face idiosyncratic shocks and express their political sentiments. I provide analytical results when political sentiments are uniformly distributed and independent over time. The model endogenously sorts people into three categories depending on their policy demands: 
+summary: This paper models policy-making as an intricate process in which governments balance political and economic considerations. I incorporate this view into a macro model with heterogeneous agents who face idiosyncratic shocks and express their political sentiments. I provide analytical results when political sentiments are uniformly distributed and independent over time. The model endogenously sorts people into three categories depending on their policy demands 
 # tags:
 # - Source Themes
 # featured: false
