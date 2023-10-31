@@ -40,7 +40,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
+#url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
 url_source: ''
 url_video: ''
 
