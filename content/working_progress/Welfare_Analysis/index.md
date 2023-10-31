@@ -1,7 +1,7 @@
 ---
-title: "The Political Economy of Labor Policy"
+title: "Welfare Analysis: Unraveling the Role of Transition Dynamics in Heterogeneous Agent Models"
 # authors:
-# - joint with Ronald Fischer and Patricio Valenzuela
+- joint with Matias Bayas-Erazo
 # tags:
 # - Machine Learning
 #author_notes:
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. (Submitted)
+summary: Heterogeneous-agent models have become a popular tool for evaluating the welfare effects of policy changes. Due to computational challenges, the conventional approach has often overlooked the importance of transition dynamics for welfare analysis and has relied on the comparison of steady states. In this paper, we propose a tractable model with heterogeneous agents and idiosyncratic risk that allows for an analytical study of the welfare implications of policy changes. Based on this model, we propose a simple rule for choosing the length of the transition between two steady states. We show that the rule performs well in quantitative heterogeneous-agent models and establish general computational guidelines for computing transitional dynamics in this class of models. 
 # tags:
 # - Source Themes
 # featured: false
@@ -33,14 +33,14 @@ summary: This article explores the political origins of size-contingent Employme
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
+#url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
 
 # url_pdf2: 'https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
+#url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
 url_source: ''
 url_video: ''
 
@@ -70,4 +70,4 @@ image:
 
 
 
-Abstract: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which typically imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects workers in larger but not in smaller firms. This is true regardless of the weights the government puts on the welfare of workers and entrepreneurs. Firms strategically adjust their labor demand in response to the size-contingent EPL policy, resulting in welfare distortions. These welfare distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs.
+Abstract: Heterogeneous-agent models have become a popular tool for evaluating the welfare effects of policy changes. Due to computational challenges, the conventional approach has often overlooked the importance of transition dynamics for welfare analysis and has relied on the comparison of steady states. In this paper, we propose a tractable model with heterogeneous agents and idiosyncratic risk that allows for an analytical study of the welfare implications of policy changes. Based on this model, we propose a simple rule for choosing the length of the transition between two steady states. We show that the rule performs well in quantitative heterogeneous-agent models and establish general computational guidelines for computing transitional dynamics in this class of models. 
