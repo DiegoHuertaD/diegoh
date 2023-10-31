@@ -22,7 +22,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of International Money and Finance, 91,105-125*"
 # publication_short: "**Journal of International Money and Finance**, 91,105-125"
-
+---
 Joint with  <a href="https://matiasbayas-erazo.com/"> Matias Bayas-Erazo</a> </span></div>
 
 # Summary. An optional shortened abstract.
