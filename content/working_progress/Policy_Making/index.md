@@ -33,7 +33,7 @@ summary: This paper models policy-making as an intricate process in which govern
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
+#url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
 
 # url_pdf2: 'https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf'
 url_code: ''
