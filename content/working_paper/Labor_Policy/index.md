@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Labor Policy"
+title: "The Political Economy of Labor Policy (Submitted)"
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. (**Submitted**)
+summary: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which typically imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects workers in larger but not in smaller firms. This is true regardless of the weights the government puts on the welfare of workers and entrepreneurs. Firms strategically adjust their labor demand in response to the size-contingent EPL policy, resulting in welfare distortions. These welfare distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs.  
 # tags:
 # - Source Themes
 # featured: false
@@ -70,4 +70,4 @@ image:
 
 
 
-Abstract: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which typically imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects workers in larger but not in smaller firms. This is true regardless of the weights the government puts on the welfare of workers and entrepreneurs. Firms strategically adjust their labor demand in response to the size-contingent EPL policy, resulting in welfare distortions. These welfare distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. (**Submitted**)
+Abstract: This article explores the political origins of size-contingent Employment Protection Legislation (EPL), which typically imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects workers in larger but not in smaller firms. This is true regardless of the weights the government puts on the welfare of workers and entrepreneurs. Firms strategically adjust their labor demand in response to the size-contingent EPL policy, resulting in welfare distortions. These welfare distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. 
