@@ -1,7 +1,7 @@
 ---
 title: "Welfare Analysis: Unraveling the Role of Transition Dynamics in Heterogeneous Agent Models"
 # authors:
-- joint with Matias Bayas-Erazo
+#- joint with Matias Bayas-Erazo
 # tags:
 # - Machine Learning
 #author_notes:
