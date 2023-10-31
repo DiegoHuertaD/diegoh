@@ -33,7 +33,7 @@ summary: The evolution of the welfare state over the last few decades has differ
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: "https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf"
+url_pdf: "https://diegohuertad.com/working_paper/labor_policy/The_Evolution_of_Welfare_State.pdf"
 
 # url_pdf2: 'https://diegohuertad.com/working_paper/labor_policy/08042023_The_Political_Economy_of_Labor_Policy.pdf'
 url_code: ''
