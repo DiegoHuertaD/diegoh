@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: Employment protection laws (EPLs) are aimed to protect workers. However, if firms cannot easily adjust to EPLs, then their workers may not benefit from higher protection at all. I address this concern from both a theoretical and empirical perspective.
+summary: Employment protection laws (EPLs) are aimed to protect workers. However, if firms cannot easily adjust to EPLs, then their workers may not benefit from higher protection at all. I address this concern from both a theoretical and empirical perspective. In the model, EPLs crowd out external finance, discouraging firms' investment and employment. These distortions are larger in more financially constrained firms that have less room to accommodate EPLs. As a result, EPLs harm financially constrained firms and their workers, while they may only benefit unconstrained firms and their workers. I test the predictions of the model by exploiting the adoption of state-level US wrongful discharge laws. I find strong evidence that EPLs reduce labor earnings, firms' profits, investment, and employment in more financially constrained firms. This negative effect is decreasing in the level of financial constraints. Overall, EPLs have regressive effects as they only benefit the most unconstrained firms and their workers. 
 # tags:
 # - Source Themes
 # featured: false
