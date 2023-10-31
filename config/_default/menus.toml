@@ -19,14 +19,15 @@
  weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
-
-[[main]]
  name = "Working Progress"
  url = "#working_progress"
- weight = 50
+ weight = 40
+
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 50
  
  #[[main]]
  # name = "(PhD) Notes"
