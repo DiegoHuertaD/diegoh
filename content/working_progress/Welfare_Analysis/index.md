@@ -26,6 +26,7 @@ publication_types: ["2"]
 # Summary. An optional shortened abstract.
 summary: Joint with [Matias Bayas-Erazo](https://matiasbayas-erazo.com/)
 
+
          Heterogeneous-agent models have become a popular tool for evaluating the welfare effects of policy changes. Due to computational challenges, the conventional 
          approach has often overlooked the importance of transition dynamics for welfare analysis and has relied on the comparison of steady states. In this paper, we 
          propose a tractable model with heterogeneous agents and idiosyncratic risk that allows for an analytical study of the welfare implications of policy changes. Based 
