@@ -29,6 +29,7 @@ publication_types: ["0"]
 
 summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer)
 
+
          *Journal of Public Economics*, 204, 2021, 104553.
 
 # tags:
@@ -73,7 +74,7 @@ image:
 *Journal of Public Economics*, 204, 2021, 104553.
 
 
-Joint with  <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1"> Ronald Fischer</a> </span></div>
+Joint with  <a href="(https://lcanales0.wixsite.com/rfischer)"> Ronald Fischer</a> </span></div>
 
 
  
