@@ -74,7 +74,7 @@ image:
 *Journal of Public Economics*, 204, 2021, 104553.
 
 
-Joint with  <a href="(https://lcanales0.wixsite.com/rfischer)"> Ronald Fischer</a> </span></div>
+Joint with  <a href="https://lcanales0.wixsite.com/rfischer"> Ronald Fischer</a> </span></div>
 
 
  
