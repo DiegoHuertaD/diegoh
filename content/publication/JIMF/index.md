@@ -70,7 +70,7 @@ image:
 ---
 *Journal of International Money and Finance*, 91, 2019, pp. 105-125.
 
-Joint with <a href="https://sites.google.com/site/ronaldfischerdiicea/cv-1" target="_blank">Ronald Fischer </a> </span>, <span> and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
+Joint with <a href="https://lcanales0.wixsite.com/rfischer" target="_blank">Ronald Fischer </a> </span>, <span> and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
 
 
 
