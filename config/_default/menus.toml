@@ -14,12 +14,12 @@
 # weight = 20
   
  [[main]]
- name = "Work in Papers"
+ name = "Working Papers"
  url = "#working_paper"
  weight = 30
 
 [[main]]
- name = "Working Progress"
+ name = "Work in Progress"
  url = "#working_progress"
  weight = 40
 
