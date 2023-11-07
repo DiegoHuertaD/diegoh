@@ -47,7 +47,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "diegohuerta2024@u.northwestern.edu"  # For a direct email link, use "diegohuerta2024@u.northwestern.edu".
+  email = "diegohuerta2024@u.northwestern.edu"
+  #link: "diegohuerta2024@u.northwestern.edu"  # For a direct email link, use "diegohuerta2024@u.northwestern.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5A3c_IMAAAAJ&hl=en&oi=ao
