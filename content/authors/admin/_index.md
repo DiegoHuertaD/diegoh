@@ -47,8 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto: diegohuerta2024@u.northwestern.edu
-  # link: '#contact'  # For a direct email link, use "diegohuerta2024@u.northwestern.edu".
+  link: '#contact'  # For a direct email link, use "diegohuerta2024@u.northwestern.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5A3c_IMAAAAJ&hl=en&oi=ao
@@ -59,7 +58,7 @@ social:
   link: files/CV_Diego_Huerta.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "diegohuerta2024@u.northwestern.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
