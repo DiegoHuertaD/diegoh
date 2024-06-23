@@ -23,6 +23,7 @@ publication_types: ["2"]
 # publication: "*Journal of International Money and Finance, 91,105-125*"
 # publication_short: "**Journal of International Money and Finance**, 91,105-125"
 
+url_pdf: "https://www.diegohuertad.com/working_paper/labor_policy_empirical/The_Regressive_Effects_Worker_Protection.pdf"
 
 # Summary. An optional shortened abstract.
 summary: I exploit the adoption of U.S. state-level employment protection legislation (EPL) to study its effects on labor earnings and firms' profits. I find that EPL has unintended regressive consequences. EPL harms financially constrained firms and their workers, while only benefiting the most unconstrained firms and their workers. The effects on financially constrained firms are driven by EPL limiting access to credit and raising debt costs, forcing them to decrease investment and employment. Conversely, unconstrained firms expand their operations due to a decrease in their cost of debt. A model with heterogeneous firms and endogenous financial constraints guides the empirical analysis.
