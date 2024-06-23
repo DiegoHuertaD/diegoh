@@ -23,7 +23,7 @@ bio: I'm a fifth-year economics Ph.D. candidate at Northwestern University. I'm 
 interests:
 - Macroeconomics
 - Political Economy
-
+- Financial Economics
 
 education:
   courses:
