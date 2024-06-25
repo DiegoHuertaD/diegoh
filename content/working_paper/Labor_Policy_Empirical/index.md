@@ -1,5 +1,7 @@
 ---
 title: "The Regressive Effects of Worker Protection: The Role of Financial Constraints"
+url_pdf: "The_Regressive_Effects_Worker_Protection.pdf"
+
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
