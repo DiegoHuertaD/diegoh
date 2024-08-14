@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Economics
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://www.economics.northwestern.edu/"
+- name: University of Chile
+  url: "https://fen.uchile.cl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an Assistant Professor in the Department of Economics at the University of Chile. I'm a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and macroeconomic outcomes.
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Northwestern University
-    year: 2019-present
+    year: 2019-2024
   - course: MS in Economics
     institution: Northwestern University
     year: 2020
@@ -52,8 +52,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:diegohuerta2024@u.northwestern.edu
-  #link: "#contact"  # For a direct email link, use "diegohuerta2024@u.northwestern.edu".
+  link: mailto:dhuertad@fen.uchile.cl
+  #link: "#contact"  # For a direct email link, use "dhuertad@fen.uchile.cl".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5A3c_IMAAAAJ&hl=en&oi=ao
@@ -75,7 +75,7 @@ email: ""
 
 I'm an Assistant Professor in the Department of Economics at the  <a href="https://fen.uchile.cl/en"> University of Chile</a>. I'm a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and macroeconomic outcomes.
 
-I received a Ph.D. in Economics from Northwestern University in 2024. 
+I received a Ph.D. in Economics from <a href="[https://fen.uchile.cl/en](https://www.economics.northwestern.edu/)"> Northwestern University</a> in 2024. 
 
  
 
