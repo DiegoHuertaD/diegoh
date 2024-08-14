@@ -88,11 +88,11 @@ show_related = {docs = false, page = false, post = false, project = true, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "diegohuerta2024@u.northwestern.edu"
+email = "dhuertad@fen.uchile.cl"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2211 Campus Drive, 3rd Floor", city = "Evanston", region = "IL", postcode = "60208", country = "United States", country_code = "US"}
+address = {street = "Diagonal Paraguay 257, 13th Floor", city = "Santiago", region = "", postcode = "7500599", country = "Chile", country_code = "CHL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
