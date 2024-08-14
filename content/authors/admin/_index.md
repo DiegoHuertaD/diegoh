@@ -75,7 +75,7 @@ email: ""
 
 I'm an Assistant Professor in the Department of Economics at the  <a href="https://fen.uchile.cl/en"> University of Chile</a>. I'm a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and macroeconomic outcomes.
 
-I received a Ph.D. in Economics from <a href="[https://fen.uchile.cl/en](https://www.economics.northwestern.edu/)"> Northwestern University</a> in 2024. 
+I received a Ph.D. in Economics from <a href="https://www.economics.northwestern.edu/"> Northwestern University</a> in 2024. 
 
  
 
