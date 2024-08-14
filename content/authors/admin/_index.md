@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor, <a href="https://fen.uchile.cl/en"> University of Chile</a>
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chile
-  url: "https://fen.uchile.cl/en"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an Assistant Professor in the Department of Economics at the University of Chile. I'm a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and macroeconomic outcomes.
@@ -23,7 +23,7 @@ bio: I'm an Assistant Professor in the Department of Economics at the University
      I received a Ph.D. in Economics from Northwestern University in 2024.
  
 
-    .
+    
 
 interests:
 - Macroeconomics
