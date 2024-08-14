@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an Assistant Professor in the Department of Economics at the University of Chile. I'm a macroeconomist with an interest in political economy. I work with heterogeneous agent models to understand the joint determination of inequality, policies, and macroeconomic outcomes.
 
-I received a Ph.D. in Economics from Northwestern University in 2024.
+     I received a Ph.D. in Economics from Northwestern University in 2024.
  
 
     .
