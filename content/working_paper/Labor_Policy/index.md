@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Labor Policy (Submitted)"
+title: "The Political Economy of Labor Policy"
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
