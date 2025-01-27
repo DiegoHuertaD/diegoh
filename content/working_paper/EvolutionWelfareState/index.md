@@ -23,7 +23,6 @@ publication_types: ["2"]
 # publication: "*Journal of International Money and Finance, 91,105-125*"
 # publication_short: "**Journal of International Money and Finance**, 91,105-125"
 
-
 # Summary. An optional shortened abstract.
 summary: The evolution of the welfare state over the last few decades has differed strikingly across countries in the world. For example, spending on social benefits as a fraction of GDP has substantially increased in the US since 1980, remained stable in Canada, and declined in Sweden.  To explain these different trends, I propose a model with agents that are heterogeneous in occupation and wealth, and who vote on social benefits over the course of their lifetime. The model highlights the key role of "aspirational voters"—members of the middle class who support pro-business policies and sacrifice social benefits hoping to become future entrepreneurs. The importance of aspirational voters, in turn, depends on wealth inequality. The model predicts that social spending should increase in rich countries with high wealth inequality, while it should decline if inequality is low. A calibrated version of the model successfully predicts the observed trends of social spending in 18 out of 24 countries from all continents.
 # tags:
