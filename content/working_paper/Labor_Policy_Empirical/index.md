@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: I exploit the adoption of U.S. state-level employment protection legislation (EPL) to study its effects on labor earnings and firms' profits. I find that EPL has unintended regressive consequences. EPL harms financially constrained firms and their workers, while only benefiting the most unconstrained firms and their workers. The effects on financially constrained firms are driven by EPL limiting access to credit and raising debt costs, forcing them to reduce investment and employment. Conversely, unconstrained firms expand their operations due to a decrease in their cost of debt. A model with heterogeneous firms and endogenous financial constraints guides the empirical analysis.
+summary: I exploit the adoption of U.S. state-level Employment Protection Legislation (EPL) to study its effects on labor earnings and firms' profits. I find that EPL has unintended regressive consequences. EPL harms financially constrained firms and their workers, while only benefiting the most unconstrained firms and their workers. The effects on financially constrained firms are driven by EPL limiting access to credit and raising debt costs, forcing them to reduce investment and employment. Conversely, unconstrained firms expand their operations due to a decrease in their cost of debt. A model with heterogeneous firms and endogenous financial constraints guides the empirical analysis.
 # tags:
 # - Source Themes
 # featured: false
