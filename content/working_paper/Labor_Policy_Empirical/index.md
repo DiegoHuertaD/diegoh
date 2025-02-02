@@ -1,5 +1,5 @@
 ---
-title: "The Regressive Effects of Worker Protection: The Role of Financial Constraints"
+title: "The Regressive Effects of Worker Protection: The Role of Financial Constraints (Submitted)"
 
 
 # authors:
