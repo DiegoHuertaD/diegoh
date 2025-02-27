@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: This article explores the political origins of size-contingent labor regulation, which imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects only workers in larger firms, regardless of the government's political orientation. Firms strategically adjust their labor demand in response to the size-contingent policy, causing welfare distortions. These distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. A dynamic extension to the model rationalizes the long-term stability of size-contingent labor regulation within countries.   
+summary: This article explores the political and economic origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects only workers in larger firms, regardless of the government's political orientation. Firms strategically adjust their labor demand in response to the size-contingent policy, causing welfare distortions. These distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. A dynamic extension of the model rationalizes the long-term stability of size-contingent EPL within countries. 
 # tags:
 # - Source Themes
 # featured: false
@@ -70,4 +70,5 @@ image:
 
 
 
-Abstract: This article explores the political origins of size-contingent labor regulation, which imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects only workers in larger firms, regardless of the government's political orientation. Firms strategically adjust their labor demand in response to the size-contingent policy, causing welfare distortions. These distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. A dynamic extension to the model rationalizes the long-term stability of size-contingent labor regulation within countries.  
+Abstract: This article explores the political and economic origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects only workers in larger firms, regardless of the government's political orientation. Firms strategically adjust their labor demand in response to the size-contingent policy, causing welfare distortions. These distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. A dynamic extension of the model rationalizes the long-term stability of size-contingent EPL within countries. 
+  
