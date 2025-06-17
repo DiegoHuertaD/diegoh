@@ -30,8 +30,7 @@ publication_types: ["2"]
 
 # Summary. An optional shortened abstract.
 
-summary: Revise and Resubmit, *Labour Economics* 
-        I exploit the staggered adoption of U.S. state-level Employment Protection Legislation (EPL) to study its effects on labor earnings and firms' profits. I find that EPL has unintended regressive consequences. EPL            harms smaller firms and their workers, while only benefiting larger firms and their workers. The effects on smaller firms are driven by EPL limiting access to credit and raising debt costs, forcing them to reduce           investment and employment. Conversely, larger firms expand their operations due to a decrease in their cost of debt. A model with heterogeneous firms and endogenous financial constraints guides the empirical     
+summary: I exploit the staggered adoption of U.S. state-level Employment Protection Legislation (EPL) to study its effects on labor earnings and firms' profits. I find that EPL has unintended regressive consequences. EPL   harms smaller firms and their workers, while only benefiting larger firms and their workers. The effects on smaller firms are driven by EPL limiting access to credit and raising debt costs, forcing them to reduce           investment and employment. Conversely, larger firms expand their operations due to a decrease in their cost of debt. A model with heterogeneous firms and endogenous financial constraints guides the empirical     
         analysis.
 
 # tags:
