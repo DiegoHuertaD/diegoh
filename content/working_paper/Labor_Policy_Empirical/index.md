@@ -1,7 +1,6 @@
 ---
-title: "The Regressive Effects of Worker Protection: The Role of Financial Constraints
-        Revise and Resubmit, *Labour Economics*"
-
+title: "The Regressive Effects of Worker Protection: The Role of Financial Constraints"
+        Revise and Resubmit, *Labour Economics*
 
 
 # authors:
