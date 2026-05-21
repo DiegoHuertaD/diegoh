@@ -30,7 +30,7 @@ publication_types: ["0"]
 summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer)
 
 
-         *Journal of Public Economics*, 204, 2021, 104553.
+         *Journal of Public Economics*, Volume 204, December 2021, 104553.
 
 # tags:
 # - Source Themes
@@ -74,7 +74,7 @@ image:
 # slides: example
 #
 ---
-*Journal of Public Economics*, 204, 2021, 104553.
+*Journal of Public Economics*, Volume 204, December 2021, 104553.
 
 
 Joint with  <a href="https://lcanales0.wixsite.com/rfischer"> Ronald Fischer</a> </span></div>
