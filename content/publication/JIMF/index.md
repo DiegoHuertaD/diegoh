@@ -37,6 +37,9 @@ summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer) and
 # - name: ""
 #   url: ""
 url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139"
+links:
+  - name: "Published Version"
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139"
 # url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139'
 url_code: ''
 url_dataset: ''
