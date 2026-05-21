@@ -27,7 +27,7 @@ publication_types: ["0"]
 # Summary. An optional shortened abstract.
 
 
-summary: "<br><span style='font-size: 1.4em;'>*Labour Economics* (2026)"
+summary: "<span style='font-size: 1.4em;'>*Labour Economics* (2026)"
 
 # tags:
 # - Source Themes
