@@ -26,8 +26,8 @@ publication_types: ["0"]
 # Summary. An optional shortened abstract.
 summary: "The evolution of the welfare state over the last few decades has differed strikingly across countries in the world. For example, spending on social benefits as a fraction of GDP has substantially increased in the US since 1980, remained stable in Canada, and declined in Sweden. To explain these different trends, I propose a model with agents that are heterogeneous in occupation and wealth, and who vote on social benefits over the course of their lifetime. The model highlights the key role of 'aspirational voters'---members of the middle class who support pro-business policies and sacrifice social benefits hoping to become future entrepreneurs. The importance of aspirational voters, in turn, depends on wealth inequality. The model predicts that social spending should increase in rich countries with high wealth inequality, while it should decline if inequality is low. A calibrated version of the model successfully predicts the observed trends of social spending in 18 out of 24 countries from all continents.
 <br><br>
-<a href='https://diegohuertad.com/working_paper/EvolutionWelfareState/The_Evolution_of_Welfare_State.pdf' target='_blank'>📄 PDF</a> &nbsp;
-<a href='https://diegohuertad.com/working_paper/EvolutionWelfareState/Slides_The_Evolution_of_Welfare_State.pdf' target='_blank'>📊 Slides</a>"
+<a href='https://diegohuertad.com/working_paper/EvolutionWelfareState/The_Evolution_of_Welfare_State.pdf' target='_blank' style='margin-right:8px; padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>PDF</a>
+<a href='https://diegohuertad.com/working_paper/EvolutionWelfareState/Slides_The_Evolution_of_Welfare_State.pdf' target='_blank' style='padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>Slides</a>"
 # tags:
 # - Source Themes
 # featured: true
