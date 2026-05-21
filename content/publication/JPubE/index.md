@@ -27,7 +27,7 @@ publication_types: ["0"]
 # Summary. An optional shortened abstract.
 
 
-summary: "Joint with <a href='https://lcanales0.wixsite.com/rfischer'>Ronald Fischer</a><br><span style='font-size: 1.4em;'><em>Journal of Public Economics</em>, Volume 204, December 2021, 104553.</span>"
+summary: "Joint with <a href='https://lcanales0.wixsite.com/rfischer'>Ronald Fischer</a><br><span style='font-size: 1.4em;'><em>Journal of Public Economics</em>, (2021)</span>"
 
 # tags:
 # - Source Themes
