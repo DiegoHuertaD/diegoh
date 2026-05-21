@@ -1,5 +1,5 @@
 ---
-title: "Wealth Inequality and the Political Economy of Financial and Labour Regulations"
+title: "The Regressive Effects of Worker Protection: The Role of Financial Constraints"
 # authors:
 # - joint with Marco Avella Medina, José Luis Montiel Olea and Cynthia Rush
 # tags:
@@ -27,10 +27,10 @@ publication_types: ["0"]
 # Summary. An optional shortened abstract.
 
 
-summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer)
+summary: 
 
 
-         *Journal of Public Economics*, 204, 2021, 104553.
+         *Labour Economics, Volume 100, June 2026, 102892.
 
 # tags:
 # - Source Themes
@@ -39,7 +39,7 @@ summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer)
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0047272721001894"
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0927537126000448"
 # url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0047272721001894'
 url_code: ''
 url_dataset: ''
@@ -71,11 +71,12 @@ image:
 # slides: example
 #
 ---
-*Journal of Public Economics*, 204, 2021, 104553.
+*Labour Economics, Volume 100, June 2026, 102892.
 
 
-Joint with  <a href="https://lcanales0.wixsite.com/rfischer"> Ronald Fischer</a> </span></div>
+
 
 
  
-Abstract:  This article studies the interplay between inequality and the effectiveness of financial and labor regulations. We motivate the paper by observing that the cross-country correlation between wealth inequality and the strength of regulations increases with a country’s GDP per capita. In poor countries the relationship is negative, but might become positive for rich enough countries. In our model, initial regulations and wealth inequality determine occupational choice and thus create endogenous interest groups. We embed these groups in a political economy model, and use it to endogenize political platforms and explain our observation. We show that increased inequality in a poor country leads in equilibrium to lower creditor and worker protection. In rich countries the effect is reversed and higher inequality means that less advantaged groups can exert more pressure towards laws that work in their favour.
+Abstract:  I exploit the staggered adoption of U.S. state-level Employment Protection Legislation (EPL) to study its effects on  firm profits and the wage bill. I find that EPL has unintended regressive consequences. EPL harms smaller firms and their workers, while only benefiting larger firms and their workers. These effects operate through a credit channel: EPL limits access to credit for smaller firms, forcing them to cut employment and even exit the market. Conversely, larger firms expand employment by issuing more debt while benefiting from lower competition.  A model with heterogeneous firms and endogenous financial constraints guides the empirical analysis.
+
