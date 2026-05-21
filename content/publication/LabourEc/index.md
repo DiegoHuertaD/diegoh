@@ -38,6 +38,9 @@ summary: "*Labour Economics*, Volume 100, June 2026, 102892."
 #   url: ""
 url_pdf: "https://www.diegohuertad.com/publication/LabourEc/The_Regressive_Effects_Worker_Protection.pdf"
 # url_pdf2: 'https://www.diegohuertad.com/publication/LabourEc/The_Regressive_Effects_Worker_Protection.pdf'
+links:
+  - name: "Published Version"
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0927537126000448"
 url_code: ''
 url_dataset: ''
 url_poster: ''
