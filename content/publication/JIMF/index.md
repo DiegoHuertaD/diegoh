@@ -28,7 +28,7 @@ publication_types: ["0"]
 summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer) and [Patricio Valenzuela](https://www.patriciovalenzuelaaros.com/) 
 
 
-         *Journal of International Money and Finance*, 91, 2019, pp. 105-125
+         *Journal of International Money and Finance*, Volume 91, March 2019, Pages 105-125.
 # tags:
 # - Source Themes
 # featured: false
@@ -68,7 +68,7 @@ image:
 # slides: example
 #
 ---
-*Journal of International Money and Finance*, 91, 2019, pp. 105-125.
+*Journal of International Money and Finance*, Volume 91, March 2019, Pages 105-125.
 
 Joint with <a href="https://lcanales0.wixsite.com/rfischer" target="_blank">Ronald Fischer </a> </span>, <span> and <a href="https://www.patriciovalenzuelaaros.com/"> Patricio Valenzuela</a> </span></div>
 
