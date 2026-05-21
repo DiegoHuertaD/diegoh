@@ -27,7 +27,7 @@ publication_types: ["0"]
 # Summary. An optional shortened abstract.
 
 
-summary: "*Labour Economics*, Volume 100, June 2026, 102892."
+summary: "<br>*Labour Economics*, Volume 100, June 2026, 102892."
 
 # tags:
 # - Source Themes
