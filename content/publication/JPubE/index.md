@@ -39,7 +39,7 @@ summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer)
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0047272721001894"
+url_pdf: "https://www.diegohuertad.com/publication/JPubE/Wealth_Inequality_Political_Economy_Financial_Labour_Regulations.pdf"
 # url_pdf2: 'https://www.sciencedirect.com/science/article/abs/pii/S0047272721001894'
 url_code: ''
 url_dataset: ''
