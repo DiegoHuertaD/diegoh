@@ -36,7 +36,7 @@ summary: Joint with [Ronald Fischer](https://lcanales0.wixsite.com/rfischer) and
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139"
+url_pdf: "https://www.diegohuertad.com/publication/JIMF/The_Inequality_Credit_Nexus.pdf)"
 links:
   - name: "Published Version"
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0261560618303139"
