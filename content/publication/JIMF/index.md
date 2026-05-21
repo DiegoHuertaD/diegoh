@@ -25,7 +25,7 @@ publication_types: ["0"]
 
 
 # Summary. An optional shortened abstract.
-summary: "Joint with <a href='https://lcanales0.wixsite.com/rfischer'>Ronald Fischer</a> and <a href='https://www.patriciovalenzuelaaros.com/'>Patricio Valenzuela</a><br><span style='font-size: 1.4em;'><em>Journal of International Money and Finance</em>, Volume 91, March 2019, Pages 105-125.</span>"
+summary: "Joint with <a href='https://lcanales0.wixsite.com/rfischer'>Ronald Fischer</a> and <a href='https://www.patriciovalenzuelaaros.com/'>Patricio Valenzuela</a><br><span style='font-size: 1.4em;'><em>Journal of International Money and Finance</em> (2019)</span>"
 # tags:
 # - Source Themes
 # featured: false
