@@ -1,4 +1,4 @@
-\---
+---
 
 title: "The Political Economy of Public Debt and Electoral Polarization"
 
@@ -6,13 +6,7 @@ title: "The Political Economy of Public Debt and Electoral Polarization"
 
 # tags:
 
-# \- Machine Learning
 
-\#author\_notes:
-#- "Submitted"
-#- "Equal contribution"
-date: "2019-03-01T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 
