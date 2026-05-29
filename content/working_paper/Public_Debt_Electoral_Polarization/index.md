@@ -1,5 +1,5 @@
 ---
-title: "The Political Economy of Labor Policy (Submitted)"
+title: "The Political Economy of Public Debt and Electoral Polarization"
 # authors:
 # - joint with Ronald Fischer and Patricio Valenzuela
 # tags:
@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 
 # Summary. An optional shortened abstract.
-summary: "This article explores the political and economic origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects only workers in larger firms, regardless of the government's political orientation. Firms strategically adjust their labor demand in response to the size-contingent policy, causing welfare distortions. These distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. A dynamic extension of the model rationalizes the long-term stability of size-contingent EPL within countries.
+summary: "This paper develops a politico-economic theory linking public debt and political polarization. We argue that fiscal constraints are politically asymmetric: debt disproportionately undermines left-wing electoral prospects by crowding out spending-intensive progressive agendas, inducing the right to strategically accumulate debt. Yet, strategic behavior is bounded: there is a party-specific debt threshold beyond which further debt accumulation is electorally unprofitable, with the right's threshold strictly lower than the left's.  In equilibrium, a stochastic debt-electoral cycle emerges between these thresholds: left-wing governments accumulate debt, right-wing governments consolidate, and right-wing radicalism rises with indebtedness. The model offers a unified explanation for the U-shaped co-movement between public debt and right-wing radicalism, a pattern we document by constructing a new dataset of legislative elections for 31 OECD countries over the past century.
 <br><br>
 <a href='https://diegohuertad.com/working_paper/labor_policy/The_Political_Economy_Labor_Policy.pdf' target='_blank' style='margin-right:8px; padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>PDF</a>
 <a href='https://diegohuertad.com/working_paper/labor_policy/Slides_The_Political_Economy_Labor_Policy.pdf' target='_blank' style='padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>Slides</a>"# tags:
@@ -72,5 +72,5 @@ image:
 
 
 
-Abstract: This article explores the political and economic origins of size-contingent Employment Protection Legislation (EPL), which imposes stricter requirements on larger firms. The theory is based on the political conflict between workers and entrepreneurs that is shaped by endogenous occupational decisions. The equilibrium policy protects only workers in larger firms, regardless of the government's political orientation. Firms strategically adjust their labor demand in response to the size-contingent policy, causing welfare distortions. These distortions can be eliminated by balancing the bargaining power of workers and entrepreneurs. A dynamic extension of the model rationalizes the long-term stability of size-contingent EPL within countries. 
+Abstract: This paper develops a politico-economic theory linking public debt and political polarization. We argue that fiscal constraints are politically asymmetric: debt disproportionately undermines left-wing electoral prospects by crowding out spending-intensive progressive agendas, inducing the right to strategically accumulate debt. Yet, strategic behavior is bounded: there is a party-specific debt threshold beyond which further debt accumulation is electorally unprofitable, with the right's threshold strictly lower than the left's.  In equilibrium, a stochastic debt-electoral cycle emerges between these thresholds: left-wing governments accumulate debt, right-wing governments consolidate, and right-wing radicalism rises with indebtedness. The model offers a unified explanation for the U-shaped co-movement between public debt and right-wing radicalism, a pattern we document by constructing a new dataset of legislative elections for 31 OECD countries over the past century. 
   
