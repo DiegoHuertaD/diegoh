@@ -23,7 +23,7 @@ publication_types: ["2"]
 # publication: "*Journal of International Money and Finance, 91,105-125*"
 # publication_short: "**Journal of International Money and Finance**, 91,105-125"
 summary: |
-  Joint with <span style="color:#2962ff;">Pablo Sánchez.</span>
+  Joint with <span style="color:#2962ff;">Pablo Sánchez</span>
   <br><br>
   This paper develops a politico-economic theory linking public debt and political polarization. We argue that fiscal constraints are politically asymmetric: debt disproportionately undermines left-wing electoral prospects by crowding out spending-intensive progressive agendas, inducing the right to strategically accumulate debt. Yet, strategic behavior is bounded: there is a party-specific debt threshold beyond which further debt accumulation is electorally unprofitable, with the right's threshold strictly lower than the left's. In equilibrium, a stochastic debt-electoral cycle emerges between these thresholds: left-wing governments accumulate debt, right-wing governments consolidate, and right-wing radicalism rises with indebtedness. The model offers a unified explanation for the U-shaped co-movement between public debt and right-wing radicalism, a pattern we document by constructing a new dataset of legislative elections for 31 OECD countries over the past century.
   <br><br>
@@ -70,7 +70,7 @@ image:
 ---
 
 
-Joint with <span style="color:#2962ff;">Pablo Sánchez.</span>
+Joint with <span style="color:#2962ff;">Pablo Sánchez</span>
 
 Abstract: This paper develops a politico-economic theory linking public debt and political polarization. We argue that fiscal constraints are politically asymmetric: debt disproportionately undermines left-wing electoral prospects by crowding out spending-intensive progressive agendas, inducing the right to strategically accumulate debt. Yet, strategic behavior is bounded: there is a party-specific debt threshold beyond which further debt accumulation is electorally unprofitable, with the right's threshold strictly lower than the left's.  In equilibrium, a stochastic debt-electoral cycle emerges between these thresholds: left-wing governments accumulate debt, right-wing governments consolidate, and right-wing radicalism rises with indebtedness. The model offers a unified explanation for the U-shaped co-movement between public debt and right-wing radicalism, a pattern we document by constructing a new dataset of legislative elections for 31 OECD countries over the past century. 
 
