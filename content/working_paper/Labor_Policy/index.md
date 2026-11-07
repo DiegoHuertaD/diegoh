@@ -29,8 +29,7 @@ summary: "This article explores the political and economic origins of size-conti
 <br><br>
 <a href='https://diegohuertad.com/working_paper/labor_policy/The_Political_Economy_Labor_Policy.pdf' target='_blank' style='margin-right:8px; padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>PDF</a>
 <a href='https://diegohuertad.com/working_paper/labor_policy/Slides_The_Political_Economy_Labor_Policy.pdf' target='_blank' style='padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>Slides</a>"
-<a href='https://diegohuertad.com/working_paper/labor_policy/EPL_coverage.dta' target='_blank' style='padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>Data</a>"
-# tags:
+<a href='https://diegohuertad.com/working_paper/labor_policy/EPL_coverage.dta' target='_blank' style='padding:6px 12px; border:1px solid #2962ff; color:#2962ff; border-radius:4px; text-decoration:none; font-size:0.85em;'>Data</a>"# tags:
 # - Source Themes
 # featured: false
 
