@@ -41,7 +41,7 @@ url_pdf: "https://diegohuertad.com/working_paper/labor_policy/The_Political_Econ
 
 # url_pdf2: 'https://diegohuertad.com/working_paper/labor_policy/The_Political_Economy_Labor_Policy.pdf'
 url_code: ''
-url_dataset:''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: "https://diegohuertad.com/working_paper/labor_policy/Slides_Macro_lunch_NU.pdf"
